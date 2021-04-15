@@ -1,2 +1,3 @@
 git test
 add new line
+add new line at the same time
